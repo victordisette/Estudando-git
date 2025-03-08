@@ -1,5 +1,34 @@
+.root{
+    font-family: "Alice", serif;
+    line-height: 150%;
+    color: #291B1A;
+}
+body{
+    background-image: url(assest/Página\ de\ receita.jpg) ;
+    background-size: cover;
+
+
+}
+
+#page{
+    box-sizing: border-box;
+    color: #291B1A;
+    width: 800px;
+    padding: 24px;
+    background-color: #F0E8C2;
+    border-radius: 24px;
+    margin: 74px auto;
+}
+
 img{
     border-radius: 16px;
-
-
+}
+h1{
+    line-height: 140%;
+    font-size: 40px;
+    color:#291B1A;
+}
+h2{
+    font-size: 24px;
+    color:#291B1A;
 }
